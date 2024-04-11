@@ -8,7 +8,7 @@ I'm doing type challenges for improving my TypeScript.
 
 ### Warm Up
 
-- [x] 13 - Hello World
+- [x] 13 - Hello World [Challenge](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md)  
 
 ### Easy
 
