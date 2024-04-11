@@ -8,7 +8,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 
 ### Warm Up
 
-- [x] 13 - Hello World [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/warm_up/t00013_hello_world.ts)  
+- [x] 13 - Hello World [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/warm_up/t00013_hello_world.ts)
 
 ### Easy
 
@@ -31,3 +31,19 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 ### Hard
 
 ### Extreme
+
+- [ ] 5 - Get Readonly Keys [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00005-extreme-readonly-keys/README.md)
+- [ ] 151 - Query String Parser [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00151-extreme-query-string-parser/README.md)
+- [ ] 216 - Slice [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00216-extreme-slice/README.md)
+- [ ] 274 - Integers Comparator [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00274-extreme-integers-comparator/README.md)
+- [ ] 462 - Currying 2 [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00462-extreme-currying-2/README.md)
+- [ ] 476 - Sum [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00476-extreme-sum/README.md)
+- [ ] 517 - Multiply [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00517-extreme-multiply/README.md)
+- [ ] 697 - Tag [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00697-extreme-tag/README.md)
+- [ ] 734 - Inclusive Range [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00734-extreme-inclusive-range/README.md)
+- [ ] 741 - Sort [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00741-extreme-sort/README.md)
+- [ ] 869 - DistributeUnions [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00869-extreme-distributeunions/README.md)
+- [ ] 925 - Assert Index Array [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00925-extreme-assert-array-index/README.md)
+- [ ] 6228 - JSON Parser [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/06228-extreme-json-parser/README.md)
+- [ ] 7561 - Subtract [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/07561-extreme-subtract/README.md)
+- [ ] 31447 - CountReversePairs [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/31447-extreme-countreversepairs/README.md)
