@@ -19,7 +19,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 - [ ] 18 - Length of Tuple[[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md)
 - [ ] 43 - Exclude [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
 - [ ] 189 - Awaited [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md)
-- [ ] 268 - If [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md)
+- [x] 268 - If [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00268_if.ts)
 - [ ] 533 - Concat [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.md)
 - [ ] 898 - Includes [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00898-easy-includes/README.md)
 - [ ] 3057 - Push [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/03057-easy-push/README.md)
