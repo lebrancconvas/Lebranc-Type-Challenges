@@ -28,6 +28,12 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 
 ### Medium
 
+- [ ] 2 - Get Return Type [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00002-medium-return-type/README.md)
+- [ ] 3 - Omit [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00003-medium-omit/README.md)
+- [ ] 8 - Readonly 2 [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00008-medium-readonly-2/README.md)
+- [ ] 9 - Deep Readonly [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00009-medium-deep-readonly/README.md)
+- [ ] 10 - Tuple to Union [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00010-medium-tuple-to-union/README.md)
+
 ### Hard
 
 ### Extreme
