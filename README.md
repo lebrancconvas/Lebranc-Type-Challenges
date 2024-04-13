@@ -36,6 +36,12 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 
 ### Hard
 
+- [ ] 6 - Simple Vue [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00006-hard-simple-vue/README.md)
+- [ ] 17 - Currying 1 [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00017-hard-currying-1/README.md)
+- [ ] 55 - Union to Intersection [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00055-hard-union-to-intersection/README.md)
+- [ ] 57 - Get Required [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00057-hard-get-required/README.md)
+- [ ] 59 - Get Optional [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00059-hard-get-optional/README.md)
+
 ### Extreme
 
 - [ ] 5 - Get Readonly Keys [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00005-extreme-readonly-keys/README.md)
