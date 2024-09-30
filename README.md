@@ -15,7 +15,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 - [x] 00004 - Pick [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00004-easy-pick/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00004_pick.ts)
 - [x] 00007 - Readonly [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00007-easy-readonly/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00007_readonly.ts)
 - [x] 00011 - Tuple to Object [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00011-easy-tuple-to-object/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00011_tuple_to_object.ts)
-- [ ] 00014 - First of Array [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.md)
+- [x] 00014 - First of Array [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.md)
 - [ ] 00018 - Length of Tuple[[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md)
 - [ ] 00043 - Exclude [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
 - [ ] 00189 - Awaited [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md)
