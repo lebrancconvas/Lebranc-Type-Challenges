@@ -17,7 +17,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 - [x] 00011 - Tuple to Object [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00011-easy-tuple-to-object/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00011_tuple_to_object.ts)
 - [x] 00014 - First of Array [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00014-easy-first/README.md)
 - [ ] 00018 - Length of Tuple[[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00018-easy-tuple-length/README.md)
-- [ ] 00043 - Exclude [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
+- [x] 00043 - Exclude [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00043-easy-exclude/README.md)
 - [ ] 00189 - Awaited [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00189-easy-awaited/README.md)
 - [x] 00268 - If [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00268_if.ts)
 - [ ] 00533 - Concat [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.md)
