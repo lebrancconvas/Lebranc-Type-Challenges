@@ -22,7 +22,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 - [x] 00268 - If [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00268-easy-if/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/easy/t00268_if.ts)
 - [ ] 00533 - Concat [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00533-easy-concat/README.md)
 - [ ] 00898 - Includes [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00898-easy-includes/README.md)
-- [ ] 03057 - Push [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/03057-easy-push/README.md)
+- [x] 03057 - Push [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/03057-easy-push/README.md)
 - [ ] 03060 - Unshift [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/03060-easy-unshift/README.md)
 - [ ] 03312 - Parameters [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/03312-easy-parameters/README.md)
 
