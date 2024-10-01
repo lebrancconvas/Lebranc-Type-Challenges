@@ -8,7 +8,7 @@ I'm doing [Type Challenges](https://github.com/type-challenges/type-challenges?t
 
 ### Warm Up
 
-- [x] 00013 - Hello World [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/warm_up/t00013_hello_world.ts)
+- [x] 00013 - Hello World [[Challenge]](https://github.com/type-challenges/type-challenges/blob/main/questions/00013-warm-hello-world/README.md) [[Solution]](https://github.com/lebrancconvas/Lebranc-Type-Challenges/blob/main/solution/mode01_warm_up/t00013_hello_world.ts)
 
 ### Easy
 
