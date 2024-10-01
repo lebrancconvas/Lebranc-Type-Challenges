@@ -25,3 +25,24 @@ type CustomRequired<T> = {
     [P in keyof T]-?: T[P];
 };
 
+// Readonly<Type>: Making all properties of Type readonly. (Opposite of Mutable<Type>)
+type ExampleReadonly = Readonly<{title: string, view: number}>
+
+type CustomReadonly<T> = {
+    readonly [P in keyof T]: T[P];
+};
+
+// Record<Keys, Type>: Making an object type whose property keys are Keys and whose property values are Type.
+type ExampleRecord = Record<'title', string>;
+
+type CustomRecord<K extends keyof any, T> = {
+    [P in K]: T;
+};
+
+// Pick<Type, Keys>: Making an object type by picking the set of properties Keys from Type.
+type ExamplePick = Pick<{title: string, view: number}, 'title'>;
+
+type CustomPick<T, K extends keyof T> = {
+    [P in K]: T[P];
+};
+
